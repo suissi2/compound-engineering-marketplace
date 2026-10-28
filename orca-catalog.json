@@ -5,7 +5,7 @@
   "owner": "suissi2",
   "plugins": [
     {
-      "id": "suissi2.orca-compound-engineering",
+      "id": "suissi2.compound-engineering-skills",
       "source": {
         "kind": "git",
         "url": "https://github.com/suissi2/orca-compound-engineering-skills.git",
