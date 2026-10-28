@@ -7,7 +7,7 @@
       "source": {
         "kind": "git",
         "url": "https://github.com/suissi2/orca-compound-engineering-skills.git",
-        "ref": "main"
+        "ref": "v1.0.0"
       },
       "description": "36 engineering skills for AI-assisted development workflows from Compound Engineering.",
       "categories": ["skills", "engineering"]
